@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\test-auth\registry-payment-resolver.java
+// Generated at: 2025-10-20T19:32:02.803Z
